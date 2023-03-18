@@ -1,4 +1,7 @@
 # HyAgOsK_AppSendEmail
+
+![image](https://user-images.githubusercontent.com/70180407/226091994-ed2bd216-6f58-4848-8168-60f58d06a48e.png)
+
 Aplicativo desenvolvido em PHP, HTML, CSS, usando Bootstrap, também como Apache como servidor, a partir do XAMPP, com e PHPMailer como bibliotecas principais 
 para protocolos de email, veja os códigos e entenda o que deverá ser feito, também como o que significa cada linha de código
 
